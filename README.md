@@ -11,3 +11,4 @@ This repository contains exercises and projects developed in CG II class with Ba
 - **exercise6:** a lot of merge meshes.
 - **exercise7:** simple rotation example.
 - **exercise8:** rotation and scale with a lot of objects.
+- **exercise8:** same than exercise8 but with mesh.

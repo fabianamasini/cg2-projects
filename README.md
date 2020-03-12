@@ -12,3 +12,6 @@ This repository contains exercises and projects developed in CG II class with Ba
 - **exercise7:** simple rotation example.
 - **exercise8:** rotation and scale with a lot of objects.
 - **exercise8:** same than exercise8 but with mesh.
+
+## Tests guide
+- **ac1:** christmas tree with boxes and lines.
